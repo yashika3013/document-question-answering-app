@@ -1,5 +1,3 @@
-# document-question-answering-app
-
 # Document Question Answering App 🧠📄
 
 This is a simple Document Question Answering web app built using Hugging Face Transformers and Gradio. It allows users to upload a `.txt` file and ask natural language questions based on the document content.
@@ -22,7 +20,7 @@ This is a simple Document Question Answering web app built using Hugging Face Tr
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/yashika3013/document-question-answering-app-.git
 cd your-repo-name
 pip install -r requirements.txt
 python app.py
