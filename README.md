@@ -33,3 +33,8 @@ python app.py
 ├── requirements.txt        # Dependencies
 ├── README.md               # Project overview
 ```
+
+## 🌐 Live Demo
+
+Check out the live Hugging Face app here:  
+👉 [Document QnA App on Hugging Face 🚀](https://huggingface.co/spaces/yashika30/document-QNa)
