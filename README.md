@@ -29,8 +29,6 @@ python app.py
 
 ## 📁 File Structure
 ```bash
-Copy
-Edit
 ├── app.py                  # Main Gradio app script
 ├── requirements.txt        # Dependencies
 ├── README.md               # Project overview
