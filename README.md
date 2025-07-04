@@ -17,6 +17,14 @@ This is a simple Document Question Answering web app built using Hugging Face Tr
 - Gradio for frontend UI
 - deepset--roberta-base-squad2/snapshots for question answering
 
+## 📁 File Structure
+bash
+Copy
+Edit
+├── app.py                  # Main Gradio app script
+├── requirements.txt        # Dependencies
+├── README.md               # Project overview
+
 ## 📦 Installation
 
 ```bash
