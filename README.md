@@ -15,7 +15,7 @@ This is a simple Document Question Answering web app built using Hugging Face Tr
 - Python 🐍
 - Hugging Face Transformers 🤗
 - Gradio for frontend UI
-- [Insert model name, e.g. `distilbert-base-cased-distilled-squad`] for question answering
+- deepset--roberta-base-squad2/snapshots for question answering
 
 ## 📦 Installation
 
